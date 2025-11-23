@@ -16,6 +16,17 @@ A simulated real-time payment processing system with risk detection, recovery lo
 4.  **Offline ML Training**: Trains a risk model on historical data.
 5.  **Dashboard**: Visualizes system health, funnels, and alerts.
 
+[Live Overview](https://github.com/Muragharajendra/Real-Time-Payment-Risk-Recovery-System/blob/main/Dashboard_snaps/Screenshot%20(139).png)
+
+[Bank & PSP Health](https://github.com/Muragharajendra/Real-Time-Payment-Risk-Recovery-System/blob/main/Dashboard_snaps/Screenshot%20(140).png)
+
+[Conversion Funnel](https://github.com/Muragharajendra/Real-Time-Payment-Risk-Recovery-System/blob/main/Dashboard_snaps/Screenshot%20(141).png)
+
+[Risk & Alerts](https://github.com/Muragharajendra/Real-Time-Payment-Risk-Recovery-System/blob/main/Dashboard_snaps/Screenshot%20(142).png) 
+
+[Recovery Effectiven](https://github.com/Muragharajendra/Real-Time-Payment-Risk-Recovery-System/blob/main/Dashboard_snaps/Screenshot%20(143).png)
+
+
 ## Setup
 
 1.  **Install Dependencies**:
